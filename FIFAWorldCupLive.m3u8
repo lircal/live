@@ -1,0 +1,67 @@
+#EXTM3U
+#EXTINF:-1, CCTV-5高清（西安广电）
+http://124.47.33.211/PLTV/88888888/224/3221225489/index.m3u8
+#EXTINF:-1, CCTV-5高清（西安电信）
+http://124.47.33.200/PLTV/88888888/224/3221225489/index.m3u8
+#EXTINF:-1, CCTV-5高清（南京移动）
+http://223.110.241.203:6610/gitv/live1/G_CCTV-5-CQ/G_CCTV-5-CQ/
+#EXTINF:-1, CCTV-5高清（南京移动1）
+http://223.110.241.204:6610/gitv/live1/G_CCTV-5-CQ/G_CCTV-5-CQ/
+#EXTINF:-1, CCTV-5高清（南京移动2）
+http://223.110.243.151/PLTV/2510088/224/3221227202/1.m3u8
+#EXTINF:-1, CCTV-5高清（南京移动3）
+http://223.110.243.155/PLTV/2510088/224/3221227202/1.m3u8
+#EXTINF:-1, CCTV-5高清（南京移动4）
+http://223.110.243.160/PLTV/2510088/224/3221227202/1.m3u8
+#EXTINF:-1, CCTV-5高清（南京移动5）
+http://223.110.243.152/PLTV/2510088/224/3221227202/1.m3u8
+#EXTINF:-1, CCTV-5高清（南京移动6）
+http://223.110.243.168/PLTV/2510088/224/3221227202/1.m3u8
+#EXTINF:-1, CCTV-5高清（南京移动7）
+http://223.110.243.155:80/PLTV/3/224/3221227468/index.m3u8
+#EXTINF:-1, CCTV-5高清（南京移动8）
+http://223.110.243.155:80/PLTV/3/224/3221227166/index.m3u8
+#EXTINF:-1, CCTV-5高清（南京移动9）
+http://223.110.243.165/PLTV/2510088/224/3221227202/index.m3u8?icpid=88888888&from=0&hms_devid=2564
+#EXTINF:-1, CCTV-5高清（辽宁移动）
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225497/index.m3u8
+#EXTINF:-1, CCTV-5高清（gotocdn.com）
+http://s-423975.gotocdn.com:6330/v/gtv.php?id=39
+#EXTINF:-1, CCTV-5高清（bupt）
+http://ivi.bupt.edu.cn/hls/cctv5hd.m3u8
+#EXTINF:-1, CCTV-5高清（不停播）
+http://dev.doutuapp.com/api/cntv/cctv?chn=cctv5
+#EXTINF:-1, CCTV-5高清
+http://223.110.243.151/PLTV/2510088/224/3221227202/1.m3u8
+#EXTINF:-1, CCTV-5高清
+http://183.207.248.71/cntv/live1/HD-2500k-1080P-cctv5/HD-2500k-1080P-cctv5
+#EXTINF:-1, CCTV-5高清
+http://223.110.241.204:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/
+#EXTINF:-1, CCTV-5高清
+http://223.110.241.204:6610/gitv/live1/G_CCTV-5-CQ/G_CCTV-5-CQ/
+#EXTINF:-1, CCTV-5
+http://223.110.241.204:6610/gitv/live1/CCTV-5/CCTV-5/
+#EXTINF:-1, CCTV-5高清
+http://223.110.243.168/PLTV/2510088/224/3221227202/1.m3u8
+#EXTINF:-1, CCTV-5高清
+http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221226362/index.m3u8
+#EXTINF:-1, CCTV-5高清
+http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221227166/index.m3u8
+#EXTINF:-1, CCTV-5高清
+http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221227298/index.m3u8
+#EXTINF:-1, CCTV-5高清
+http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221227401/index.m3u8
+#EXTINF:-1, CCTV-5高清
+http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221227468/index.m3u8
+#EXTINF:-1, CCTV-5高清
+http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221226324/index.m3u8
+#EXTINF:-1, CCTV-5高清
+http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227166/index.m3u8
+#EXTINF:-1, CCTV-5高清
+http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227468/index.m3u8
+#EXTINF:-1, CCTV-5高清
+http://223.110.245.170/PLTV/3/224/3221227166/index.m3u8
+#EXTINF:-1, CCTV-5高清
+http://223.110.245.170/PLTV/3/224/3221227468/index.m3u8
+#EXTINF:-1, CCTV-5高清
+http://223.110.245.139:80/PLTV/4/224/3221227401/index.m3u8
