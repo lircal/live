@@ -1,5 +1,3 @@
-# name = "BlockAD"
-
 [RULESET.BLOCKAD]
 name = "blockad Rules"
 rules = [
@@ -4790,4 +4788,4 @@ rules = [
 	"DOMAIN-SUFFIX,zzsdjq.com,REJECT”,
 	"DOMAIN-SUFFIX,zzsno1.com,REJECT”,
 	"DOMAIN-SUFFIX,zzyonghao.com,REJECT”,
-	]
+]
